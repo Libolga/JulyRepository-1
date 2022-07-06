@@ -102,3 +102,12 @@ It supports non-linear development through its thousands of parallel branches
 
 * conflict resolved - infomation about the right and final position;
 
+# Third seminar info
+
+* git pull - command, which creates the pulling a remote version;
+
+* fork - allows the copy of the repositoru of another user;
+
+* git push - updates the remote branch with local commits;
+
+* git clone - the command, targets an existing repository and creates a clone, or copy of the target repository;
